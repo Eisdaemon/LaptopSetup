@@ -32,6 +32,13 @@ flatpak install flathub net.supertuxkart.SuperTuxKart
 flatpak install flathub de.bund.ausweisapp.ausweisapp2
 flatpak install flathub com.github.micahflee.torbrowser-launcher
 curl -fsSL https://tailscale.com/install.sh | sh
+
+#Download Additional Files needed
+mkdir setup_files
+cd setup_files
+wget https://raw.githubusercontent.com/Eisdaemon/LaptopSetup/main/music_command_export.py
+wget https://raw.githubusercontent.com/Eisdaemon/LaptopSetup/main/list_music.sh
+wget https://raw.githubusercontent.com/Eisdaemon/LaptopSetup/main/freetube-subscriptions-2023-11-17.db
 #Apt
 echo "$(whoami)"
 
