@@ -1,0 +1,3 @@
+wget https://raw.githubusercontent.com/Eisdaemon/Bwinf-Bewertung/main/ip.sh
+sudo chmod +x ip.sh
+sudo ./ip.sh
