@@ -23,7 +23,6 @@ flatpak install flathub com.github.Eloston.UngoogledChromium
 flatpak install flathub org.gnome.Boxes
 flatpak install flathub com.gitlab.davem.ClamTk
 flatpak install flathub com.jgraph.drawio.desktop
-flatpak install flathub com.nextcloud.desktopclient.nextcloud
 flatpak install flathub im.riot.Riot
 flatpak install flathub com.github.xournalpp.xournalpp
 flatpak install flathub io.mpv.Mpv
