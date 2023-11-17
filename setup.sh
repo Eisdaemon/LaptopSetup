@@ -39,6 +39,7 @@ cd setup_files
 wget https://raw.githubusercontent.com/Eisdaemon/LaptopSetup/main/music_command_export.py
 wget https://raw.githubusercontent.com/Eisdaemon/LaptopSetup/main/list_music.sh
 wget https://raw.githubusercontent.com/Eisdaemon/LaptopSetup/main/freetube-subscriptions-2023-11-17.db
+cd ..
 #Apt
 echo "$(whoami)"
 
